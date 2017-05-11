@@ -41,7 +41,8 @@ INSTALLED_APPS = [
     'crispy_forms',
 
     # Self-defined app
-    'account'
+    'account',
+    'articles',
 ]
 
 MIDDLEWARE = [
